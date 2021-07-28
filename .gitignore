@@ -1,0 +1,6 @@
+Djchat/settings.py
+Djchat/__init__.py
+Djchat/__pycache__/
+chat/migrations/
+chat/__init__.py
+manage.py
